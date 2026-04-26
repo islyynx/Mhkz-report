@@ -60,5 +60,6 @@ Les preuves de "piratage" sont techniquement incohérentes. La présence d'outil
 
 *The "hacking" evidence is technically inconsistent. The presence of image editing tools (ChatGPT) and error messages related to bank balances (limit reached) confirm that this is a staged scenario to avoid responsibilities related to projects or payments.*
 https://gemini.google.com/a4db3bd3-22e3-46be-ba91-a6581240fa7e
+
 EMAIL : williamdigiiii@gmail.com
-DIsocrd id : 1316021326552760372
+Discord id : 1316021326552760372
